@@ -3,6 +3,8 @@ Product Listing
 
 Bu proje, React kullanarak geliştirilen bir ürün listeleme uygulamasıdır. Ürünler, bir API'den çekilerek kullanıcıya sunulmaktadır.
 
+https://product-listing-orcin-beta.vercel.app
+
 🚀 Kurulum
 ----------
 
