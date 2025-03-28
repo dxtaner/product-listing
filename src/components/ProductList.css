@@ -1,0 +1,13 @@
+.loading-text, .empty-text {
+    text-align: center;
+    font-size: 1.4rem;
+    margin: 20px;
+    color: #888;
+}
+
+.product-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    justify-items: center;
+    margin: 20px;
+}
